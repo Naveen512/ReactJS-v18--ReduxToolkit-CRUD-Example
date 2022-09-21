@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Lamborghini Sian Roadster",
+      "year": 2021,
+      "imageUrl": "https://cdni.autocarindia.com/ExtraImages/20200709122144_Lamborghini_Sian_Roadster_front-2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pagani Huayra BC Roadster",
+      "year": 2022,
+      "imageUrl": "https://cdn.motor1.com/images/mgl/3XMGX/s1/pagani-huayra-roadster-bc.jpg"
+    },
+    {
+      "id": 3,
+      "name": "McLaren Speedtail",
+      "year": 2023,
+      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2022/05/McLaren-Speedtail-1-1024x555.jpg"
+    }
+  ]
+}
